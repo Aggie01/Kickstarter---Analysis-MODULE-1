@@ -1,4 +1,4 @@
-# Kickstarter-Analysis of Campaigns with the focus on Theatrical productions
+# Kickstarter-Analysis of Campaigns with the main focus on Theatrical productions
 ## Overview and Purpose:
 Louise intends on creating a play in the U.S.  For that reason, she wants to start a crowdfunding campaign.  Her main purpose is to understand how theatrical productions performed, in the past, based on "launch date" and "monetary goals."
 ### Purpose:
