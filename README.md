@@ -5,8 +5,10 @@ Louise intends on creating a play in the U.S.  For that reason, she wants to sta
 In an effort to help Louise understand the effectiveness and weaknesses of Theatrical production campaigns, the analysis of "outcomes" by "launch date" was performed first. Both Pivot table and chart illustrate the findings and analysis.
 ## Analysis and Challenges:
 ### "Outcome" by "Launch Date" 
-In the Kickstarter dataset, variable "outcome" indicates whether the campaign met it's goal by classifying it into "successful," failed" and "cancelled" categories.
-From the analysis, it is determined that the month of **May and June have the greatest "success" rate** of campaignes launched.  However, **January, March, November and December** have roughly similar number of failed campaignes launched.
+In the Kickstarter dataset, "Outcome" variable indicates whether the campaign met it's goal by classifying it into "successful," failed" and "cancelled" categories.
+From the analysis, it is determined that the month of **May and June have the greatest "success" rate** of campaignes launched.  However, **January, March, November and December** have roughly similar number of failed campaignes launched. 
+
+"Theater Outcomes Based on Launch Date" line chart is attached as a reference.
 
 
 ![](Theater_Outcomes_vs_Launch.png)
