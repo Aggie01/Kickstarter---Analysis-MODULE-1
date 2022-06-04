@@ -13,7 +13,7 @@ From the analysis, it is determined that the month of **May and June have the gr
 ![](Theater_Outcomes_vs_Launch.png)
 
 
-## Analysis of "Outcome" based on "Goal"
+## Analysis of "Outcome" based on "Goals"
 For the purpose of this analysis, "Goal" variable is divided into 12 dollar-amount categories, ranging from "Less than $1000" to "$5000 or More." 
 The analysis of successful, failed and canceled outcomes based on funding goal amount for the "Plays" subcategory allows to determine that **the most successful "Plays" campaigns have Less than $5000 fundraising goal (76% for less than $1000 and 73% for $1000 to $4999)**
 The percentage of failed "Plays" grows as the amount of funding goals increases.  In other words, a funding goal of $5000 and more generates negative response.
