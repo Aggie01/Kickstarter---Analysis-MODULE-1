@@ -22,9 +22,8 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 
 ![](Outcomes_vs_Goals.png)
 
-
 ## Challenges and Difficulties:
-- Outcome based on Launch date - the overall analysis of the "Theater" category based on launch date provides no information on the theatrical genres, specifically "Plays."  Since, Louise's main focus is on Plays she will not fully benefit from the findings.
+- Outcome based on Launch date - the overall analysis of the "Theater" category based on launch date provides no information about the theatrical genres, specifically "Plays."  Since, Louise's main focus is on Plays she will not fully benefit from the findings.
 - Outcome based on Goal - Louis estimates that her play will cost $12,000 which is more than twice the average successful fundraising goal for "Plays."
 ## Concluding Results:
 - May and June have the greatest success of launching a rewarding campain.
@@ -34,8 +33,10 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 - Limited number of variables in the dataset 
 - Further dive in into additional factors that may influence the campaigns' outcomes is suggested, such as age, gender, income, education.
 ## Other possible tables:
+- Mean and median 
+
 
 [^1] Footnotes: Encountered challenges when running dataset/creating Readme file:
 - resizing "Outcomes_vs_Goals" image
-- challenged myself on Deliverable 2 to create a formula that would apply filters to "Goals," "Outcomes" and "Plays."  It took me quite some time but I DID IT!! :smiley:
+- challenged myself on Deliverable 2 to create COUNTIFS formula that would apply filters to "Goals," "Outcomes" and "Plays" at the same time.  It took me quite some time but I DID IT! Formula: =COUNTIFS(Kickstarter!$D$2:$D$4115,"<1000",Kickstarter!$F$2:$F$4115,"=failed",Kickstarter!$R$2:$R$4115,"=plays") :smiley:
 
