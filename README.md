@@ -19,9 +19,7 @@ The analysis of successful, failed and canceled outcomes based on funding goal a
 The percentage of failed "Plays" grows as the amount of funding goals increases.  In other words, a funding goal of $5000 and more generates negative response.
 
 "Outcomes Based on Goals" line chart is attached as a reference.
-
-![](Outcomes_vs_Goals.png)
-
+![](Outcomes_vs_Goals_new.png)
 ## Challenges and Difficulties:
 - Outcome based on Launch date - the overall analysis of the "Theater" category based on launch date provides no information about the theatrical genres, specifically "Plays."  Since, Louise's main focus is on Plays she will not fully benefit from the findings.
 - Outcome based on Goal - Louis estimates that her play will cost $12,000 which is more than twice the average successful fundraising goal for "Plays."
