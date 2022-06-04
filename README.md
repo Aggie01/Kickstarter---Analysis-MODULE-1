@@ -22,18 +22,20 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 
 ![](Outcomes_vs_Goals.png)
 
+
 ## Challenges and Difficulties:
 - Outcome based on Launch date - the overall analysis of the "Theater" category based on launch date provides no information on the theatrical genres, specifically "Plays."  Since, Louise's main focus is on Plays she will not fully benefit from the findings.
 - Outcome based on Goal - Louis estimates that her play will cost $12,000 which is more than twice the average successful fundraising goal for "Plays."
 ## Concluding Results:
 - May and June have the greatest success of launching a rewarding campain.
 - Winter months, January, March, November and December are least likely to deliver expected campain goals.
-- The most achievable funding goals for "Plays" is less than $5000.
+- The most achievable funding goal for "Plays" is less than $5000.
 ## Overall limitations of the dataset:
-- Limited number of variables. 
-- Further dive in into other factors that can influence the campaigns outcomes is suggested, such as age, gender, income, education.
+- Limited number of variables in the dataset 
+- Further dive in into additional factors that may influence the campaigns' outcomes is suggested, such as age, gender, income, education.
 ## Other possible tables:
-xxxxxxxxxxxxxx
 
-#Encountered challenges when running this dataxxxxxxxxxxxxxxxxx
+[^1] Footnotes: Encountered challenges when running dataset/creating Readme file:
+- resizing "Outcomes_vs_Goals" image
+- challenged myself on Deliverable 2 to create a formula that would apply filters to "Goals," "Outcomes" and "Plays."  It took me quite some time but I DID IT!! :smiley:
 
