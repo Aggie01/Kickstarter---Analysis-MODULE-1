@@ -38,5 +38,5 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 
 [^1] Footnotes: Encountered challenges when running dataset/creating Readme file:
 - resizing "Outcomes_vs_Goals" image
-- challenged myself on Deliverable 2 to create COUNTIFS formula that would apply filters to "Goals," "Outcomes" and "Plays" at the same time.  It took me quite some time but I DID IT! Formula: =COUNTIFS(Kickstarter!$D$2:$D$4115,"<1000",Kickstarter!$F$2:$F$4115,"=failed",Kickstarter!$R$2:$R$4115,"=plays") :smiley:
+- no other challenges :smiley:
 
