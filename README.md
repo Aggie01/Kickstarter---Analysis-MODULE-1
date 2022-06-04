@@ -29,3 +29,11 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 - May and June have the greatest success of launching a rewarding campain.
 - Winter months, January, March, November and December are least likely to deliver expected campain goals.
 - The most achievable funding goals for "Plays" is less than $5000.
+## Overall limitations of the dataset:
+- Limited number of variables. 
+- Further dive in into other factors that can influence the campaigns outcomes is suggested, such as age, gender, income, education.
+# Other possible tables:
+xxxxxxxxxxxxxx
+
+#Encountered challenges when running this dataxxxxxxxxxxxxxxxxx
+
