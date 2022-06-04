@@ -25,3 +25,7 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 ### Challenges and Difficulties:
 - Outcome based on Launch date - the overall analysis of the "Theater" category based on launch date provides no information on the theatrical genres, specifically "Plays."  Since, Louise's main focus is on Plays she will not fully benefit from the findings.
 - Outcome based on Goal - Louis estimates that her play will cost $12,000 which is more than twice the average successful fundraising goal for "Plays."
+## Concluding Results:
+- May and June have the greatest success of launching a rewarding campain.
+- Winter months, January, March, November and December are least likely to deliver expected campain goals.
+- The most achievable funding goals for "Plays" is less than $5000.
