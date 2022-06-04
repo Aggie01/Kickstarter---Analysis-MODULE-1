@@ -6,7 +6,7 @@ In an effort to help Louise understand the effectiveness and weaknesses of Theat
 ## Analysis and Challenges:
 ### "Outcome" by "Launch Date" 
 In the Kickstarter dataset, "Outcome" variable indicates whether the campaign met it's goal by classifying it into "successful," failed" and "cancelled" categories.
-From the analysis, it is determined that the month of **May and June have the greatest "success" rate** of campaignes launched.  However, **January, March, November and December** have roughly similar number of failed campaignes launched. 
+From the analysis, it is determined that the month of **May and June have the greatest "success" rate** of campaigns launched.  However, **January, March, November and December** have roughly similar number of failed campaigns launched. 
 
 "Theater Outcomes Based on Launch Date" line chart is attached as a reference.
 
