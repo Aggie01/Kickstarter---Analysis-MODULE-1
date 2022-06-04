@@ -38,5 +38,5 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 
 [^1] Footnotes: Encountered challenges when running dataset/creating Readme file:
 - resizing "Outcomes_vs_Goals" image
-- small other challenges. overall, i really enjoyed the whole process :smiley:
+- other small challenges i.e building COUNTIFS formula but I really enjoyed the whole process :smiley:
 
