@@ -20,5 +20,5 @@ The percentage of failed "Plays" grows as the amount of funding goals increases.
 
 "Outcomes Based on Goals" line chart is attached as a reference.
 
+![](Outcomes_vs_Goals.png)
 
-![](Outcomes_Based_on_ Goals.png)
